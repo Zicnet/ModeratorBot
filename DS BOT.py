@@ -156,4 +156,4 @@ async def on_ready():
     scheduler.start()
 
 print(f'{datetime.now()} BOT START')
-bot.run('OTI3OTkwNDg3OTkyOTI2MjY4.YdSQfQ.FGFnnQbyxRLuS-5OKSYm7Hx1O8o')
+bot.run('TOKEN')
